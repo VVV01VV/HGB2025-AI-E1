@@ -1,0 +1,9 @@
+﻿# generated datasets
+data/*.csv
+ecommerce/*.csv
+
+# spark event logs
+spark-events/local-*
+
+# jupyter checkpoints
+notebooks/.ipynb_checkpoints/
